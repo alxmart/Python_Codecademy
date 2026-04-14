@@ -1,2 +1,2 @@
-# I'll write an Python program.
+# I'll write AI programs.
 
