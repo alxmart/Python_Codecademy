@@ -1,4 +1,3 @@
-
 first_order_remainder = 269 % 10
 
 print(first_order_remainder)
@@ -9,9 +8,7 @@ else:
    first_order_coupon = "no"
 
 print(first_order_coupon)
-
 #---------------------------------
-
 second_order_remainder = 270 % 10
 
 print(second_order_remainder)

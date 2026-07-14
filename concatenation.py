@@ -1,3 +1,4 @@
+
 string1 = "The wind, "
 string2 = "which had hitherto carried us along with amazing rapidity, "
 string3 = "sank at sunset to a light breeze; "
