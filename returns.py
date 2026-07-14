@@ -6,7 +6,7 @@ def print_remaining_budget(budget):
 
 print_remaining_budget(current_budget)
 
-# Write your code below: 
+
 def deduct_expense(budget, expense):
   return budget - expense
 

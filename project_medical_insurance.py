@@ -1,4 +1,3 @@
-
 # create the initial variables below
 age = 28
 sex = 0   #0 for female, 1 for male
@@ -55,5 +54,3 @@ new_insurance_cost = 250 * age - 128 * sex + 370 * bmi + 25 * num_of_children + 
 change_in_insurance_cost = new_insurance_cost - insurance_cost
 
 print(f"The change in estimated cost for being male instead of female is {change_in_insurance_cost} dollars.")
-
-
